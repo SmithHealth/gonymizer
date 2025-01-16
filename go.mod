@@ -3,7 +3,7 @@ module github.com/smithoss/gonymizer
 go 1.13
 
 require (
-	github.com/aws/aws-sdk-go v1.55.5
+	github.com/aws/aws-sdk-go v1.55.6
 	github.com/corpix/uarand v0.1.0 // indirect
 	github.com/google/uuid v1.6.0
 	github.com/icrowley/fake v0.0.0-20180203215853-4178557ae428
